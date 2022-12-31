@@ -1,0 +1,3 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.xml
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.pdb

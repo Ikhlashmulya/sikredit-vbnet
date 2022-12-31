@@ -1,0 +1,13 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.inputDataTagihan.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\bin\Debug\sikredit.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\bin\Debug\sikredit.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\bin\Debug\sikredit.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\sikredit.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.inputDataNasabah.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.dataTagihanBulanan.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.dataTagihanTahunan.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sikredit\sikredit\obj\x86\Debug\WindowsApplication1.Form.resources
